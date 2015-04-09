@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer xmlns:po="http://www.example.com/myPO1" xmlns:b="http://www.javalinux.me/book" id="100">
+    <age>29</age>
+    <b:bookList>
+        <book id="1">
+            <desc>Book Desc</desc>
+            <name>Test Book</name>
+        </book>
+    </b:bookList>
+    <name>suo</name>
+</customer>
